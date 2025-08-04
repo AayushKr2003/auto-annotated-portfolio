@@ -14,7 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Telling Your Story Through Design That Moves.
-    subtitle: ''
+    subtitle: >-
+      Expertise in graphic design, animation, and video editing for the modern
+      web.Creating everything from logos and style guides to animated ads and
+      short films.
     styles:
       self:
         height: auto
