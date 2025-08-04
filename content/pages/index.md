@@ -16,7 +16,8 @@ sections:
     title: Telling Your Story Through Design That Moves.
     subtitle: >-
       Expertise in graphic design, animation, and video editing for the modern
-      web. 
+      web. Creating everything from logos and style guides to animated ads and
+      short films.
     styles:
       self:
         height: auto
