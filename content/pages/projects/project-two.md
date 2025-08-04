@@ -4,7 +4,7 @@ title: Typography Designs
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: ''
+description: Click to see more
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
