@@ -4,10 +4,7 @@ title: Typography Designs
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: >-
-  This typography collection showcases my exploration of letterforms, balance,
-  and expressive layout. Each project reflects my attention to hierarchy,
-  readability, and creative visual storytelling across print and digital media.
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
