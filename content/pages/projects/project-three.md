@@ -4,7 +4,7 @@ title: Poster Designs
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: ''
+description: Click to see more
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
