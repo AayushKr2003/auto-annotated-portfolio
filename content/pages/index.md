@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: Telling Your Story Through Design That Moves.
     subtitle: >-
       Expertise in graphic design, animation, and video editing for the modern
