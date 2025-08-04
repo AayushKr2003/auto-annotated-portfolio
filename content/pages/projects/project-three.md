@@ -4,11 +4,7 @@ title: Poster Designs
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: >-
-  These posters showcase my skill in distilling ideas into visually compelling
-  designs. From initial concept sketches to final layouts, I prioritize strong
-  storytelling, balanced composition, and vibrant color palettes to engage
-  audiences and make a lasting impact on the viewer.
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
