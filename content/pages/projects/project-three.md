@@ -5,11 +5,10 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  This collection of poster designs demonstrates my ability to create
-  attention-grabbing visuals that communicate powerful messages. Spanning event
-  announcements, promotional campaigns, and artistic statements, each poster
-  reflects a distinct blend of bold color, concept-driven imagery, and impactful
-  composition.
+  These posters showcase my skill in distilling ideas into visually compelling
+  designs. From initial concept sketches to final layouts, I prioritize strong
+  storytelling, balanced composition, and vibrant color palettes to engage
+  audiences and make a lasting impact.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
