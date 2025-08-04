@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I'M AAYUSH, A PROFESSIONAL IN GRAPHIC DESIGN, MOTION GRAPHICS AND VIDEO
-      EDITING
+    title: Telling Your Story Through Design That Moves.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
