@@ -114,7 +114,7 @@ sections:
         actions:
           - type: Link
             label: X
-            url: 'https://twitter.com/'
+            url: 'https://x.com/ryzotalks'
         styles:
           self:
             textAlign: left
