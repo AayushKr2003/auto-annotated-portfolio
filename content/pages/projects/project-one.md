@@ -51,4 +51,5 @@ bottomSections:
           - pl-4
           - pr-4
         textAlign: center
+        borderColor: border-(--theme-dark)
 ---
