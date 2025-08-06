@@ -36,6 +36,11 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
+    title: >-
+      I’m Aayush Kumar, a graphic designer skilled in motion graphics and video
+      editing. I bring ideas to life with creative visuals, engaging animations,
+      and polished video edits—helping brands and stories stand out with
+      originality and impact.
   - type: DividerSection
     styles:
       self:
