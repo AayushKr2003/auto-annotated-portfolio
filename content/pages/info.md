@@ -192,7 +192,7 @@ sections:
       - type: Label
         label: Advertisement Design
       - type: Label
-        label: Swift
+        label: Brand Design
   - type: DividerSection
     styles:
       self:
