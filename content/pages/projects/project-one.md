@@ -15,7 +15,7 @@ bottomSections:
     subtitle: All the anime style edits I did
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Bocchi edit-Aoko.png
         altText: Image one
         caption: Image one caption
         elementId: ''
