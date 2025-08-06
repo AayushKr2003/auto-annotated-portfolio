@@ -7,7 +7,7 @@ client: Awesome client
 description: Click to see more
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Bleed.png
   altText: Project image
 ---
 
