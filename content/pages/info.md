@@ -186,7 +186,7 @@ sections:
       - type: Label
         label: Logo Designing
       - type: Label
-        label: Netlify
+        label: UI/UX
       - type: Label
         label: Pancakes
       - type: Label
