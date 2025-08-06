@@ -35,7 +35,7 @@ bottomSections:
         elementId: ''
       - type: ImageBlock
         url: /images/Ascend.png
-        altText: Image four
+        altText: Ascend
         caption: Image four caption
         elementId: ''
     colors: colors-a
