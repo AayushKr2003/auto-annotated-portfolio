@@ -4,7 +4,7 @@ title: Anime poster designs
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: Click to see More
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/Musashi.png
