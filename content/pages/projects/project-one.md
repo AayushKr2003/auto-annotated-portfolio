@@ -7,7 +7,7 @@ client: Awesome client
 description: Click to see more
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Musashi.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
