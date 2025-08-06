@@ -20,7 +20,7 @@ bottomSections:
     images:
       - type: ImageBlock
         url: /images/Timeless.png
-        altText: Image one
+        altText: Purrfection
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
