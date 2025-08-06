@@ -145,7 +145,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Instagram
+            label: Instagram-alt
             url: 'https://www.instagram.com/'
         styles:
           self:
