@@ -209,7 +209,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [aayushkumar22072003@gmail.com](mailto:thisismyemail.@myemail.me)
+      <aayushkumar22072003@gmail.com>
   - type: DividerSection
     styles:
       self:
