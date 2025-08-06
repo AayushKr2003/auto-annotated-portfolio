@@ -7,7 +7,6 @@ client: Awesome client
 description: Click to see more
 featuredImage:
   type: ImageBlock
-  url: /images/Bleed.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
