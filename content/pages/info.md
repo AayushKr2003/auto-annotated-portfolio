@@ -113,7 +113,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
+            label: X
             url: 'https://twitter.com/'
         styles:
           self:
