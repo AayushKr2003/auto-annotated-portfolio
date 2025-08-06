@@ -13,16 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: |+
+      #####
 
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
     styles:
       self:
         height: auto
@@ -39,6 +32,11 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
+    title: >-
+      I’m Aayush Kumar, a graphic designer skilled in motion graphics and video
+      editing. I bring ideas to life with creative visuals, engaging animations,
+      and polished video edits—helping brands and stories stand out with
+      originality and impact.
   - type: DividerSection
     styles:
       self:
@@ -107,24 +105,24 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
-            url: 'https://github.com/'
+            label: Instagram
+            url: 'https://www.instagram.com/aoko.artz/'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            label: X
+            url: 'https://x.com/ryzotalks'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            label: Behance
+            url: 'https://www.behance.net/aayushkumar88'
         styles:
           self:
             textAlign: left
@@ -140,15 +138,15 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: 'https://discordapp.com/users/562618115398172710'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
+            label: Instagram-alt
+            url: 'https://www.instagram.com/ryzodesigns'
         styles:
           self:
             textAlign: left
@@ -180,21 +178,21 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Graphic Designing
       - type: Label
-        label: React
+        label: Motion Graphics
       - type: Label
-        label: Microsoft Office
+        label: Video Editing
       - type: Label
-        label: Next.js
+        label: Logo Designing
       - type: Label
-        label: Netlify
+        label: UI/UX
       - type: Label
-        label: Pancakes
+        label: Typography Design
       - type: Label
-        label: C++
+        label: Advertisement Design
       - type: Label
-        label: Swift
+        label: Social Media/Brand Design
   - type: DividerSection
     styles:
       self:
@@ -211,7 +209,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      <aayushkumar22072003@gmail.com>
   - type: DividerSection
     styles:
       self:

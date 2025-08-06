@@ -5,7 +5,7 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Aayush Kumar",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -27,17 +27,17 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "altText": "Instagram",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/aoko.artz/",
+                "icon": "instagram"
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "altText": "Twitter",
+                "label": "Twitter",
+                "url": "",
+                "icon": "twitter"
             }
         ],
         "styles": {
@@ -58,8 +58,8 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
+                "url": "aayushkumar22072003@gmail.com",
+                "altText": "Email"
             },
             {
                 "type": "Link",
@@ -69,22 +69,22 @@
             },
             {
                 "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "label": "Behance",
+                "url": "https://www.behance.net/aayushkumar88",
                 "altText": "Netlify templates"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "+91-9354449095",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "aayushkumar22072003@gmail.con",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "Delhi, India",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",
