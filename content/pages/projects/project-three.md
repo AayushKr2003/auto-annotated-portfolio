@@ -25,7 +25,7 @@ bottomSections:
         elementId: ''
       - type: ImageBlock
         url: /images/Hanabi.png
-        altText: Image two
+        altText: Hanabi
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
