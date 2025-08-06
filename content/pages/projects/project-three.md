@@ -31,7 +31,7 @@ bottomSections:
       - type: ImageBlock
         url: /images/Lost words.png
         altText: Lost Words
-        caption: Image three caption
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: /images/gallery-4.jpg
