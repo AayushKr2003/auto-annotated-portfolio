@@ -192,7 +192,7 @@ sections:
       - type: Label
         label: Advertisement Design
       - type: Label
-        label: Brand Design
+        label: Social Media/Brand Design
   - type: DividerSection
     styles:
       self:
