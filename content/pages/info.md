@@ -122,7 +122,7 @@ sections:
         actions:
           - type: Link
             label: Behance
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.behance.net/aayushkumar88'
         styles:
           self:
             textAlign: left
