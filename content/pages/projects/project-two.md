@@ -4,7 +4,7 @@ title: Typography Style Designs
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: Click to see more
+description: ''
 media:
   type: ImageBlock
   url: /images/Bleed.png
