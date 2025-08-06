@@ -21,7 +21,7 @@ bottomSections:
       - type: ImageBlock
         url: /images/Timeless.png
         altText: Purrfection
-        caption: Image one caption
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: /images/Hanabi.png
