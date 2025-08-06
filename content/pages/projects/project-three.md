@@ -34,7 +34,7 @@ bottomSections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/Ascend.png
         altText: Image four
         caption: Image four caption
         elementId: ''
