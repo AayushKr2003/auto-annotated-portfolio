@@ -184,7 +184,7 @@ sections:
       - type: Label
         label: Video Editing
       - type: Label
-        label: Next.js
+        label: Logo Designing
       - type: Label
         label: Netlify
       - type: Label
