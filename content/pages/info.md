@@ -14,10 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      I’m Aayush Kumar, a graphic designer skilled in motion graphics and video
+      editing. I bring ideas to life with creative visuals, engaging animations,
+      and polished video edits—helping brands and stories stand out with
+      originality and impact.
+
+
+
 
     media:
       type: ImageBlock
