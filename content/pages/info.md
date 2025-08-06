@@ -188,7 +188,7 @@ sections:
       - type: Label
         label: UI/UX
       - type: Label
-        label: Pancakes
+        label: Typography Design
       - type: Label
         label: C++
       - type: Label
