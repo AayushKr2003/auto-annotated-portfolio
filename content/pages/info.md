@@ -106,7 +106,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://github.com/'
+            url: ''
         styles:
           self:
             textAlign: left
