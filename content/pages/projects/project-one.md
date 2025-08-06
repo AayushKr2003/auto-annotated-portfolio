@@ -12,7 +12,7 @@ featuredImage:
 bottomSections:
   - type: MediaGallerySection
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: All the anime style edits I did
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
