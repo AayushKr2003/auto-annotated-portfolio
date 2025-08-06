@@ -106,7 +106,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: ''
+            url: 'https://www.instagram.com/aoko.artz/'
         styles:
           self:
             textAlign: left
