@@ -146,7 +146,7 @@ sections:
         actions:
           - type: Link
             label: Instagram-alt
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/ryzodesigns'
         styles:
           self:
             textAlign: left
