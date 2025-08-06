@@ -26,7 +26,7 @@ bottomSections:
       - type: ImageBlock
         url: /images/Hanabi.png
         altText: Hanabi
-        caption: Image two caption
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: /images/Lost words.png
