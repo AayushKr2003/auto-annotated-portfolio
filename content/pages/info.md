@@ -14,13 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      I’m Aayush Kumar, a graphic designer skilled in motion graphics and video
-      editing. I bring ideas to life with creative visuals, engaging animations,
-      and polished video edits—helping brands and stories stand out with
-      originality and impact.
-
-
-
+      ##### I’m Aayush Kumar, a graphic designer skilled in motion graphics and
+      video editing. I bring ideas to life with creative visuals, engaging
+      animations, and polished video edits—helping brands and stories stand out
+      with originality and impact.
 
     media:
       type: ImageBlock
