@@ -8,6 +8,7 @@ description: Click to see more
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
+  url: /images/Bleed.png
 media:
   type: ImageBlock
   url: /images/bg2.jpg
