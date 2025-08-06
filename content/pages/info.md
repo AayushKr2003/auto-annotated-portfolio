@@ -190,7 +190,7 @@ sections:
       - type: Label
         label: Typography Design
       - type: Label
-        label: C++
+        label: Advertisement Design
       - type: Label
         label: Swift
   - type: DividerSection
