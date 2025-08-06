@@ -7,7 +7,7 @@ client: Awesome client
 description: Click to see more
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/LUNA.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
