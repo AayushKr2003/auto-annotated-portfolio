@@ -19,7 +19,7 @@ bottomSections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Timeless.png
         altText: Image one
         caption: Image one caption
         elementId: ''
