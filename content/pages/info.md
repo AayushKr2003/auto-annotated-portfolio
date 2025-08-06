@@ -180,7 +180,7 @@ sections:
       - type: Label
         label: Graphic Designing
       - type: Label
-        label: React
+        label: Motion Graphics
       - type: Label
         label: Microsoft Office
       - type: Label
