@@ -9,10 +9,6 @@ featuredImage:
   type: ImageBlock
   url: /images/Musashi.png
   altText: Project thumbnail image
-media:
-  type: ImageBlock
-  url: /images/Musashi.png
-  altText: Project image
 bottomSections:
   - type: MediaGallerySection
     title: Gallery
