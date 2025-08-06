@@ -5,10 +5,6 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: Click to see more
-featuredImage:
-  type: ImageBlock
-  altText: Project thumbnail image
-  url: /images/Bleed.png
 media:
   type: ImageBlock
   url: /images/bg2.jpg
