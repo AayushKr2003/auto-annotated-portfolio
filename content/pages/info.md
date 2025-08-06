@@ -182,7 +182,7 @@ sections:
       - type: Label
         label: Motion Graphics
       - type: Label
-        label: Microsoft Office
+        label: Video Editing
       - type: Label
         label: Next.js
       - type: Label
